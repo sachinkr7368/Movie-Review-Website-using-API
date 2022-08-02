@@ -2,7 +2,6 @@
 
 ### By Sachin Kumar
 
-#### There is a search button on top for searching custom name through whole API
 #### [Link to View my work](https://Sachin-movie-reviews.netlify.app)
 
 ## Technologies Used
@@ -19,6 +18,7 @@ Here i M displaying the followig details from api
 * Ratings
 * Poster
 * Release Date
+## There is a search button on top for searching custom name through whole API
 
 ## Setup/Installation Requirements
 
