@@ -2,7 +2,7 @@
 
 ### By Sachin Kumar
 
-#### This Web Page is Showing My Photography Sample Shots
+#### There is a search button on top for searching custom name through whole API
 #### [Link to View my work](https://Sachin-movie-reviews.netlify.app)
 
 ## Technologies Used
